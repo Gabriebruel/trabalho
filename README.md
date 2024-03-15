@@ -1,3 +1,5 @@
+<div align="center">
+
 # AnimeStream
 
 ## Introdução
@@ -27,3 +29,5 @@ AnimeStream é um projeto inspirado em plataformas de streaming de anime popular
 - Isabely Nunes
 - Henrique Assink
 - Sara Cristina
+
+</div>
