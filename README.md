@@ -12,6 +12,7 @@ AnimeStream é um projeto inspirado em plataformas de streaming de anime popular
 Mobile (Android, e IOS), nas lojas onlines como a Play Store e App Store.
 
 O app é voltado para assistir animes onde o usuário deve criar uma conta e logar nela, logo depois ele irá poder desfrutar de um mar de conteúdo (animes), onde está incluso séries e filmes.
+E sempre que o usuário for entrar em título aparecerá um anúncio.
 
 ### Suporte - (xx) xxxxx-xxxx
   
