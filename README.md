@@ -4,7 +4,7 @@
 
 ## Introdução
 
-AnimeStream é um projeto inspirado em plataformas de streaming de anime populares como a Crunchyroll. O objetivo principal deste projeto é criar um site onde os usuários possam assistir a uma ampla variedade de animes, favoritar seus títulos preferidos, criar uma conta personalizada e interagir com uma comunidade de entusiastas de anime.
+AnimeStream é um projeto inspirado em plataformas de streaming de anime populares como a Crunchyroll. O objetivo principal deste projeto é criar um site onde os usuários possam assistir a uma ampla variedade de animes, favoritar seus títulos preferidos, criar uma conta personalizada e interagir com uma comunidade de entusiastas de anime. Este projeto visa fornecer uma experiência de streaming de anime fluida e agradável, oferecendo recursos como busca avançada por títulos, gêneros e palavras-chave, reprodução em alta qualidade, perfis de usuário personalizados com listas de favoritos e histórico de visualização, além de funcionalidades sociais como comentários e avaliações.
 
 ## Funcionalidades
 
